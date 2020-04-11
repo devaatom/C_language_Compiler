@@ -1,4 +1,4 @@
-# COMP
+# C_compiler
 Project by :
 
 Haritha Poornachandran – 2017103057
